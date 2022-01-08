@@ -15,6 +15,7 @@
 		7F1AA2212789903100C1055A /* LandmarksUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F1AA2202789903100C1055A /* LandmarksUITests.swift */; };
 		7F1AA2232789903100C1055A /* LandmarksUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F1AA2222789903100C1055A /* LandmarksUITestsLaunchTests.swift */; };
 		7F1AA231278A4D7700C1055A /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F1AA230278A4D7700C1055A /* CircleImage.swift */; };
+		7F1AA233278A4EA300C1055A /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F1AA232278A4EA300C1055A /* MapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		7F1AA2222789903100C1055A /* LandmarksUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarksUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		7F1AA22F2789939800C1055A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		7F1AA230278A4D7700C1055A /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		7F1AA232278A4EA300C1055A /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				7F1AA2092789903000C1055A /* Assets.xcassets */,
 				7F1AA20B2789903000C1055A /* Preview Content */,
 				7F1AA230278A4D7700C1055A /* CircleImage.swift */,
+				7F1AA232278A4EA300C1055A /* MapView.swift */,
 			);
 			path = Landmarks;
 			sourceTree = "<group>";
@@ -263,6 +266,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7F1AA2082789903000C1055A /* ContentView.swift in Sources */,
+				7F1AA233278A4EA300C1055A /* MapView.swift in Sources */,
 				7F1AA2062789903000C1055A /* LandmarksApp.swift in Sources */,
 				7F1AA231278A4D7700C1055A /* CircleImage.swift in Sources */,
 			);
